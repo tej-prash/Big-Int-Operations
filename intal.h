@@ -20,6 +20,7 @@
 // a struct array. There is no theoretical limit to the size of the integer, but memory limitations of the 
 // process (Operating System). If the OS allows, your library should be able to hold the largest prime number
 // known, which is 23,249,425 digits long (as of Feb 2018).
+
 void* intal_create(const char* str);
 
 //Destroy the created "object".
