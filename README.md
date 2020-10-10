@@ -9,4 +9,5 @@ The following arithmetic operations have been implemented:
 6) Exponentiation
 
 intal.c contains the implementation of the operations
+
 intal.h is a header file that contains function prototypes of all the operations
