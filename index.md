@@ -33,4 +33,4 @@ Consider the following two integers provided as input:
 
 ### Sample Output
 
-<img src="https://user-images.githubusercontent.com/31772714/95673417-eb5aee80-0bc5-11eb-9b10-751f3cf7cfec.png" width="950" height="250">
+<img src="https://user-images.githubusercontent.com/31772714/95673417-eb5aee80-0bc5-11eb-9b10-751f3cf7cfec.png" width="1000" height="250">
