@@ -2,7 +2,7 @@
 
 The library provides an efficient implementation of basic arithmetic operations with integers of arbitrary length. 
 
-## Design
+## Description
 
 The C-based library uses the following data structure to represent an integer: 
 ```
@@ -22,3 +22,12 @@ When provided with a string-based input of an integer, it is internally represen
 - Comparison
 
 ## Results
+### Sample Input 
+Consider the following two integers provided as input:
+1. Integer 1:15453844568042674261155006622975933139565572846562378528540325003787716869493326221313083641348849
+2. Integer 2: 3931137821044013493791098177239438243262656520793
+
+### Sample Output
+
+![intal_output](https://user-images.githubusercontent.com/31772714/95673417-eb5aee80-0bc5-11eb-9b10-751f3cf7cfec.png)
+
