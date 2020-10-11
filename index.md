@@ -13,6 +13,8 @@ typedef struct intal{
 }MyInt;
 ```
 
+The structure efficiently utilizes space by using an internal array representation of long integers. Each element of the array consists of a series of digits occupying as many bytes as supported by a long integer in C. A series of array elements together can represent an integer of arbitrary length. 
+
 When provided with a string-based input of an integer, it is internally represented using the above structure and various arithmetic operations can be performed using it. The arithmetic operations that are supported are:
 - Increment
 - Decrement
@@ -20,6 +22,8 @@ When provided with a string-based input of an integer, it is internally represen
 - Multiplication/Division
 - Exponentiation
 - Comparison
+
+
 
 ## Results
 ### Sample Input 
